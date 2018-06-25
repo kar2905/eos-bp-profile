@@ -1,0 +1,42 @@
+{
+  "title": "BP App Coalition",
+  "tagline": {
+    "en": "bpacbpacbpac",
+    "zh": ""
+  },
+  "introduce": {
+    "en": "Committed to the growth of dApps on EOS",
+    "zh": ""
+  },
+  "account_name": "bpacbpacbpac",
+  "public_key": "EOS55W5m6Rh6x3eCPvEZzPBAgqaahZTjL2y3Sb1VTreNkd9Ns55n3",
+  "org": {
+    "name": "BP App Coalition",
+    "website": "https://bpac.io/",
+    "email": "hello@mail.bpac.io",
+    "branding":{
+      "logo": "logo-$bpacbpacbpac.png",
+      "cover": "cover-$bpacbpacbpac.png"
+    },
+    "location": "Mumbai, India",
+    "social_network": {
+      "steemit": "https://steemit.com/@eosbpac",
+      "twitter": "https://twitter.com/eosbpac",
+      // "facebook": "https://www.facebook.com/your-awesome-project",
+      "github": "https://github.com/kar2905",
+      "telegram": "https://t.me/eosbpac"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+        "id": "IN",
+        "name": "India"
+      },
+      "is_producer": true,
+      "p2p_endpoint": "p2p.bpac.io:1876",
+      "api_endpoint": "http://proxy1.bpac.io/",
+      "ssl_endpoint": "http://proxy1.bpac.io/"
+    }
+  ]
+}
